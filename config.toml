@@ -1,0 +1,114 @@
+baseURL = 'https://hendrick-dias-portfolio.github.io/'
+languageCode = 'pt-br'
+languageName = "Brazilian Portuguese"
+defaultContentLanguage = "pt-br"
+title = 'Portfolio - Hendrick Dias, Engenheiro de software'
+theme = 'LoveIt'
+paginate = 8
+
+# whether to use git commit log
+# enableGitInfo = true
+
+# whether to use emoji code
+enableEmoji = true
+
+# Author config fd
+[author]
+  name = "Hendrick Dias"
+  email = "hendrickdias66@gmail.com"
+  link = ""
+
+[params]
+
+  [params.cdn]
+    data = "jsdelivr.yml"
+
+  [params.home]
+    # URL of avatar shown in home page
+    [params.home.profile]
+      avatarURL = "/img/programmer-icon.svg"
+      title = "Bem-vindo ao meu portfólio"
+      subtitle = "Contacte-me 👇"
+
+  [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+      Linkedin = true
+      Whatsapp = true
+
+ # Header config
+  [params.header]
+    # desktop header mode ["fixed", "normal", "auto"]
+    desktopMode = "fixed"
+    # mobile header mode ["fixed", "normal", "auto"]
+    mobileMode = "auto"
+    # LoveIt NEW | 0.2.0 Header title config
+    [params.header.title]
+      # URL of the LOGO
+      logo = "/img/home.png"
+      # title name
+      name = "Home"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+  
+  [params.social]
+    Email = "hendrickdias66@gmail.com"
+    [params.social.GitHub]
+      # your social ID
+      id = "Tsarbomba69-com"
+      # content hovering on the icon
+      title = "GitHub"
+      
+      [params.social.LinkedIn]
+      # your social ID
+      id = "hendrick-dias-7ab399121"
+      # content hovering on the icon
+      title = "LinkedIn"
+
+      [params.social.youtubechannel]
+      # your social ID
+      id = "UCpagZhdXfHciHU6rjwF1guA"
+      # content hovering on the icon
+      title = "YouTube"
+
+# Menu config
+
+[menu]
+  [[menu.main]]
+    weight = 2
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HzTML format is supported), such as icons
+    post = ""
+    name = "Projectos"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = "Veja os meus projectos"
+  
+  [[menu.main]]
+    weight = 2
+    identifier = "about"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Sobre mim"
+    url = "/about/"
+    # title will be shown when you hover on this menu link
+    title = "Sobre mim"
+
+  [[menu.main]]
+    weight = 2
+    identifier = "Currículo"
+    pre = ""
+    post = ""
+    name = "Currículo"
+    url = "/cv/"
+    title = ""
+
+
+
+
+
