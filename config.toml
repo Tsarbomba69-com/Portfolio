@@ -5,6 +5,7 @@ defaultContentLanguage = "pt-br"
 title = 'Portfolio - Hendrick Dias, Engenheiro de software'
 theme = 'LoveIt'
 paginate = 8
+canonifyurls = true
 
 # whether to use git commit log
 # enableGitInfo = true
