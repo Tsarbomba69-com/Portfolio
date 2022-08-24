@@ -1,9 +1,11 @@
 ---
+weight: 4
 title: "R.U.C.A"
 date: 2022-08-21T15:29:53+01:00
 draft: false
+featuredImage: "/img/ruca.png"
+featuredImagePreview: "/img/ruca.png"
 ---
-![Página das disciplinas](/img/ruca.png)
 
 ## Descrição
 

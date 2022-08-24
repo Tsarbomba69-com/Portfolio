@@ -1,10 +1,11 @@
 ---
+weight: 5
 title: "Crab Server"
 date: 2022-08-24T12:44:25+01:00
 draft: false
+featuredImage: "/crab-server/Served_page.png"
+featuredImagePreview: "/crab-server/Served_page.png"
 ---
-
-![Survival mode](/img/crab-server/Interface.png)
 
 **![GitHub](/img/github-icon-2.svg) [código-fonte](https://github.com/Tsarbomba69-com/crab_server)**
 
@@ -35,4 +36,4 @@ Desenvolvimento de software, Programação assíncrona, Programação de redes d
 
 ## Galeria
 
-{{< gallery-slider dir="/img/crab-server/" width="800px" height="350px" auto-slide="2000" >}}
+{{< gallery-slider dir="crab-server/" width="800px" height="600px" auto-slide="4000" >}}

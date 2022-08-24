@@ -1,10 +1,11 @@
 ---
+weight: 3
 title: "Textris"
 date: 2022-08-20T12:00:12+01:00
 draft: false
+featuredImage: "/img/textris.png"
+featuredImagePreview: "/img/textris.png"
 ---
-
-![Survival mode](/img/textris.png)
 
 **![GitHub](/img/github-icon-2.svg) [código-fonte](https://github.com/Tsarbomba69-com/textris)**
 

@@ -1,10 +1,11 @@
 ---
+weight: 2
 title: "Metal Jacket"
 date: 2022-08-22T12:08:56+01:00
 draft: false
+featuredImage: "/img/metal-jacket.png"
+featuredImagePreview: "/img/metal-jacket.png"
 ---
-![Survival mode](/img/metal-jacket.png)
-
 ## Descrição
 
 Metal Jacket é um jogo de gênero run & gun side scrolling. O desenvolvimento começou em 2020, originalmente será lançado para PC, movido pelo motor de jogo Unity. É um jogo que traz de volta a ação frenética do clássico run & gun, mas com uma lufada de ar fresco que as novas tecnologias podem oferecer, com conceitos de jogos modernos aliados à nostalgia e diversão que os clássicos trazem.

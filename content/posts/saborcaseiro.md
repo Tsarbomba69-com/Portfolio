@@ -1,9 +1,11 @@
 ---
+weight: 1
 title: "Sabor Caseiro"
 date: 2022-08-23T12:38:47+01:00
 draft: false
+featuredImage: "/posts/SaborCaseiroImg.png"
+featuredImagePreview: "/posts/SaborCaseiroImg.png"
 ---
-![Homepage](/posts/SaborCaseiroImg.png)
 
 ## Descrição
 
