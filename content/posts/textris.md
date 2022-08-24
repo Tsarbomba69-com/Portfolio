@@ -6,7 +6,7 @@ draft: false
 
 ![Survival mode](/img/textris.png)
 
-**[código-fonte](https://github.com/Tsarbomba69-com/textris)**
+**![GitHub](/img/github-icon-2.svg) [código-fonte](https://github.com/Tsarbomba69-com/textris)**
 
 ## Descrição
 

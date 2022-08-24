@@ -5,7 +5,7 @@ defaultContentLanguage = "pt-br"
 title = 'Portfolio - Hendrick Dias, Engenheiro de software'
 theme = 'LoveIt'
 paginate = 8
-canonifyurls = true
+canonifyurls = true # Resolve to absolute URLs (Workaround for deployment)
 
 # whether to use git commit log
 # enableGitInfo = true
