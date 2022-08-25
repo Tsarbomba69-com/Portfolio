@@ -28,7 +28,7 @@ enableEmoji = true
     # URL of avatar shown in home page
     [params.home.profile]
       avatarURL = "/img/programmer-icon.svg"
-      title = "Bem-vindo ao meu portfólio"
+      title = "Olá, eu sou Hendrick Dias 👋.<br>Bem-vindo ao meu portfólio"
       subtitle = "Contacte-me 👇"
 
   [params.page.share]

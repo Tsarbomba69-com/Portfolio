@@ -4,7 +4,7 @@ date: 2022-08-22T15:53:53+01:00
 draft: false
 ---
 
-Programador motivado, com experiência em desenvolvimento de software de diversas naturezas e em diferentes camadas de abstração, desde servidores web, web bots, E-Commerce e jogos de computadores. Comportamento envolvente conhecido por funcionar bem em ambientes baseados em prazos.
+Desenvolvedor motivado, com experiência em desenvolvimento de software de diversas naturezas e em diferentes camadas de abstração, desde servidores web, web bots, E-Commerce e jogos de computadores. Comportamento envolvente conhecido por funcionar bem em ambientes baseados em prazos.
 
 Sempre interessado em desenvolvimento de aplicativos, engenharia de software, matemática, física, robótica, pesquisa e inovação.
 
@@ -35,3 +35,32 @@ Prestei serviços como freelancer, para empresa de restauração Sabor Caseiro, 
 2022
 
 Trabalho part-time, para empresa de produção de software, continuando o projecto da biblioteca.
+
+#### Tarefas desempenhadas
+
+* Instalação e Configuração do software Koha;
+* Processo de estilização do sistema;
+* Configuração dos Usuários (Leitores) da Biblioteca;
+* Integração do Koha com o sistema académico (Mutue);
+* Processo de catalogação dos acervos;
+* Regras de Circulação;
+* Formação dos bibliotecários para operar com o sistema.
+* Instalação e Configuração do software Koha;
+* Processo de estilização do sistema;
+* Configuração dos Usuários (Leitores) da Biblioteca;
+* Integração do Koha com o sistema académico (Mutue);
+* Processo de catalogação dos acervos;
+* Regras de Circulação;
+* Formação dos bibliotecários para operar com o sistema.
+
+#### Tecnologias incluídas
+
+[![Bash](/img/bash-1.svg)](https://www.gnu.org/software/bash/)
+[![CGI/Perl](/img/perl-programming-language.svg)](https://www.perl.com/article/perl-and-cgi/)
+[![Git](/img/git-icon.svg)](https://git-scm.com)
+[![GitHub](/img/github-icon-1.svg)](https://github.com)
+[![Javascript](/img/javascript-1.svg)](https://www.javascript.com)
+[![JQuery](/img/jquery.svg)](https://jquery.com)
+[![Linux](/img/linux-tux.svg)](https://www.linux.org)
+[![MySQL](/img/mysql-official.svg)](https://www.mysql.com)
+[![Visual Studio Code](/img/visual-studio-code-1.svg)](https://code.visualstudio.com)

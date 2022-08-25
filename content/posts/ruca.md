@@ -30,6 +30,7 @@ Desenvolvimento web, Desenvolvimento de software, Base de dados, Programação o
 [![Git](/img/git-icon.svg)](https://git-scm.com)
 [![GitHub](/img/github-icon-1.svg)](https://github.com)
 [![HTML](/img/html-1.svg)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![JQuery](/img/jquery.svg)](https://jquery.com)
 [![Javascript](/img/javascript-1.svg)](https://www.javascript.com)
 [![MySQL](/img/mysql-official.svg)](https://www.mysql.com)
 [![Python](/img/python-4.svg)](https://www.python.org)
@@ -37,4 +38,4 @@ Desenvolvimento web, Desenvolvimento de software, Base de dados, Programação o
 
 ## Vídeo
 
-{{< youtube -pN-ETpAK1k >}}
+{{< youtube L6-Yn6V5aPE >}}
