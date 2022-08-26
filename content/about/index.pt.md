@@ -39,11 +39,11 @@ Após o estágio na universidade, o projecto da biblioteca foi entregue a empres
 #### Tarefas desempenhadas
 
 * Instalação e Configuração do software Koha;
-* Processo de estilização do sistema;
+* Customização da estilização do sistema;
 * Configuração dos Usuários (Leitores) da Biblioteca;
 * Integração do Koha com o sistema académico (Mutue);
-* Processo de catalogação dos acervos;
-* Regras de Circulação;
+* Implementação de formulários personalizados para catalogação dos acervos;
+* Implemetação das regras de circulação;
 * Formação dos bibliotecários para operar com o sistema.
 
 #### Tecnologias incluídas
