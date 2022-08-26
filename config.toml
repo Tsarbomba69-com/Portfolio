@@ -20,6 +20,9 @@ enableEmoji = true
   link = ""
 
 [params]
+  [params.math]
+    enable = true
+    copyTex = true
 
   [params.cdn]
     data = "jsdelivr.yml"
@@ -99,15 +102,6 @@ enableEmoji = true
     url = "/about/"
     # title will be shown when you hover on this menu link
     title = "Sobre mim"
-
-  [[menu.main]]
-    weight = 2
-    identifier = "Currículo"
-    pre = ""
-    post = ""
-    name = "Currículo"
-    url = "/cv/"
-    title = ""
 
 
 

@@ -5,7 +5,7 @@ draft: false
 featuredImage: "/img/Portfolio.png"
 featuredImagePreview: "/img/Portfolio.png"
 ---
-**![GitHub](/img/github-icon-2.svg) [código-fonte](https://github.com/Tsarbomba69-com/Portfolio)** **![GitHub](/img/link.svg) [Visite o site](https://tsarbomba69-com.github.io/Portfolio/)**
+**![GitHub](/img/github-icon-2.svg) [código-fonte](https://github.com/Tsarbomba69-com/Portfolio)** **![Link](/img/link.svg) [Visite o site](https://tsarbomba69-com.github.io/Portfolio/)**
 
 ## Descrição
 
