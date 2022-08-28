@@ -5,6 +5,8 @@ draft: false
 featuredImage: "/img/vec.png"
 featuredImagePreview: "/img/vec.png"
 ---
+**![GitHub](/img/github-icon-2.svg) [código-fonte](https://github.com/Tsarbomba69-com/vec)**
+
 ## Descrição
 
 Uma biblioteca compartilhada para construção e manipulação de estruturas de dados lineares em C (pilha, fila, lista encadeada).
