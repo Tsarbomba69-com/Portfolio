@@ -28,7 +28,7 @@ Uma biblioteca compartilhada para construção e manipulação de estruturas de 
 * Remover no fim da lista.
 * Inverter a lista.
 * Imprimir a lista.
-* Concatenar às segunda lista a primeira lista.
+* Concatenar a segunda lista a primeira lista.
 * Esvaziar a lista.
 
 ## Começo rápido
