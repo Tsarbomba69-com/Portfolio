@@ -39,7 +39,7 @@ Uma biblioteca compartilhada para construção e manipulação de estruturas de 
 >
 > 1. Copie "libvec.so" para a pasta **"/usr/lib"**
 > 2. Importe a biblioteca em seu código-fonte: **#include "vec.h"**
-> 3. Vincule a biblioteca compartilhada ao seu objeto de origem: **gcc -o [obj de origem] [obj de origem].o -lvec -L/usr/lib/**
+> 3. Vincule a biblioteca compartilhada ao seu objeto de origem: **$ gcc -o [obj de origem] [obj de origem].o -lvec -L/usr/lib/**
 > 4. Aproveite 🙂
 
 ## Diagramas
@@ -52,6 +52,6 @@ Uma biblioteca compartilhada para construção e manipulação de estruturas de 
 
 ![reverse](/img/reverse%20(dark).svg)
 
-### Criar script
+### Processo de build
 
 ![build](/img/build-shared-library%20(dark).svg)

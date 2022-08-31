@@ -11,4 +11,8 @@
 # References:
 #   - https://blog.clairvoyantsoft.com/create-a-static-website-with-hugo-and-host-it-with-github-pages-f268b12371 
 #   - https://www.youtube.com/watch?v=hjD9jTi_DQ4
-#   - 
+
+
+# Commands
+# hugo server --buildDrafts  # Build server
+# hugo new posts/$postname.md # Create new post

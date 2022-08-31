@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 5
 title: "Textris"
 date: 2022-08-20T12:00:12+01:00
 draft: false
