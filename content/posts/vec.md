@@ -1,5 +1,5 @@
 ---
-title: "Vec"
+title: "Collections"
 date: 2022-08-28T20:49:35+01:00
 draft: false
 featuredImage: "/img/vec.png"
@@ -9,7 +9,7 @@ featuredImagePreview: "/img/vec.png"
 
 ## Descrição
 
-Uma biblioteca compartilhada para construção e manipulação de estruturas de dados lineares em C (pilha, fila, lista encadeada).
+Uma coleção de bibliotecas compartilhadas para construção e manipulação de estruturas de dados lineares em C (pilha, fila, lista encadeada, hash map).
 
 ## Tecnologias incluídas
 
