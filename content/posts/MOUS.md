@@ -7,6 +7,8 @@ featuredImage: "/img/Mous.png"
 featuredImagePreview: "/img/Mous.png"
 ---
 
+**![Link](/img/link.svg) [Visite o site](https://mous.netlify.app)**
+
 ## Descrição
 
 O MOUS é uma Plataforma interactiva, idealizada e desenvolvida exclusivamente para artistas musicais, permitindo a
@@ -32,7 +34,7 @@ orientada a objetos (POO).
 
 ## Tecnologias incluídas
 <!-- 150x150 px img size -->
-[![Microsoft Azure Portal (Amazon EC2)](/img/azure.svg)](https://azure.microsoft.com/en-us/get-started/azure-portal)
+[![Microsoft Azure Portal](/img/azure-2.svg)](https://azure.microsoft.com/en-us/get-started/azure-portal)
 [![Amazon Route 53](/img/aws-route53.svg)](https://aws.amazon.com/route53/)
 [![Angular](/img/angular-icon.svg)](https://angular.io/)
 [![ASP.NET Core](/img/NET_Core_Logo_small.svg)](https://dotnet.microsoft.com/en-us/apps/aspnet)
