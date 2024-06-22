@@ -26,6 +26,7 @@ orientada a objetos (POO).
 * Hospedagem da interface gráfica no Netlify;
 * Reforço das regras de negôcios na camada de apresentação usando o Angular;
 * Versionamento e backup usando GitHub;
+* Coleção de matéria musical usando a biblioteca Scrappy da linguagem Python;
 * Testes de integração com XUnit e Testcontainner;
 * Virtualização usando Docker.
 
@@ -43,12 +44,13 @@ orientada a objetos (POO).
 [![Linux](/img/linux-tux.svg)](https://www.linux.org)
 [![MySQL](/img/mysql-official.svg)](https://www.mysql.com)
 [![Nginx](/img/nginx-1.svg)](https://www.nginx.com)
+[![Python](/img/python-4.svg)](https://www.python.org)
 [![Sass](/img/sass-1.svg)](https://sass-lang.com)
 [![Typescript](/img/typescript.svg)](https://www.typescriptlang.org)
 [![Visual Studio Code](/img/visual-studio-code-1.svg)](https://code.visualstudio.com)
 
 ## Vídeo
 
-{{< youtube -pN-ETpAK1k >}}
+{{< youtube XwQcYu7Z02E >}}
 
 
