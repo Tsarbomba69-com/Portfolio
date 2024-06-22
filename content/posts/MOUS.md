@@ -34,8 +34,6 @@ orientada a objetos (POO).
 
 ## Tecnologias incluídas
 <!-- 150x150 px img size -->
-[![Microsoft Azure Portal](/img/azure-2.svg)](https://azure.microsoft.com/en-us/get-started/azure-portal)
-[![Amazon Route 53](/img/aws-route53.svg)](https://aws.amazon.com/route53/)
 [![Angular](/img/angular-icon.svg)](https://angular.io/)
 [![ASP.NET Core](/img/NET_Core_Logo_small.svg)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![Bash](/img/bash-1.svg)](https://www.gnu.org/software/bash/)
@@ -44,8 +42,9 @@ orientada a objetos (POO).
 [![Git](/img/git-icon.svg)](https://git-scm.com)
 [![GitHub](/img/github-icon-1.svg)](https://github.com)
 [![Linux](/img/linux-tux.svg)](https://www.linux.org)
+[![Microsoft Azure Portal](/img/azure-2.svg)](https://azure.microsoft.com/en-us/get-started/azure-portal)
 [![MySQL](/img/mysql-official.svg)](https://www.mysql.com)
-[![Nginx](/img/nginx-1.svg)](https://www.nginx.com)
+[![Netlify](/img/netlify-svgrepo-com.svg)](https://www.netlify.com)
 [![Python](/img/python-4.svg)](https://www.python.org)
 [![Sass](/img/sass-1.svg)](https://sass-lang.com)
 [![Typescript](/img/typescript.svg)](https://www.typescriptlang.org)
